@@ -79,7 +79,7 @@ storage: filesystem
 # tlsSecretName: registry.docker.example.com
 secrets:
   haSharedSecret: ""
-  htpasswd: ""
+  htpasswd: ''
 # Secrets for Azure
 #   azure:
 #     accountName: ""
